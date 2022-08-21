@@ -3,7 +3,7 @@
 
 圈X:
 
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body http://ox.xmkczs.com/quantumultX/Pixelmatorpro.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xingfu111/xingfu111/main/Pixelmatorpro.js
 hostname= api.revenuecat.com
 
 */
