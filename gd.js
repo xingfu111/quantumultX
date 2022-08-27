@@ -16,7 +16,7 @@
 [rewrite_local]
 
 #果冻app
-^http[s]?:\/\/.+\.(pgnktni|izivuiw)\.cn\/(.+)\/api\/user\/userInfo url script-response-body g
+^http[s]?:\/\/.+\.(pgnktni|izivuiw)\.cn\/(.+)\/api\/user\/userInfo url script-response-body https://raw.githubusercontent.com/xingfu111/quantumultX/main/gd.js
 
 
 
